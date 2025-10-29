@@ -1,0 +1,145 @@
+﻿[2025-10-29 22:46:45] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:51] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:52] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:52] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:52] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:52] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:52] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:53] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:53] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:53] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:46:54] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:49:01] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:49:07] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:10] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:11] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:11] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:11] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:11] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:11] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:12] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:12] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:12] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:12] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:12] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:12] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:13] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:13] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:13] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
+[2025-10-29 22:53:16] NAudio.MmException: BadDeviceId calling waveInOpen
+   at NAudio.MmException.Try(MmResult result, String function)
+   at NAudio.Wave.WaveInEvent.OpenWaveInDevice()
+   at NAudio.Wave.WaveInEvent.StartRecording()
+   at WindSurf_SpeechToText.Program.Main(String[] args) in C:\Users\mehme\OneDrive\Masaüstü\spcetotext\WindSurf_SpeechToText\Program.cs:line 177
